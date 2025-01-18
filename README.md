@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌍 **Location:** Nairobi, Kenya
 
-✉️ **Contact:** [shiekiragu123@gmail.com](mailto:shiekiragu123@gmail.com)
+✉️ **Contact:** [shiekiragu123@gmail.com](mailto:joywanjirukiragu@gmail.com)
 
 🧠 **Currently Learning:** Enhancing ISR algorithm which reduces revalidation time and handles updates more efficiently.
 
