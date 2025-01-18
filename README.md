@@ -7,11 +7,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌍 **Location:** Nairobi, Kenya
 
-✉️ **Contact:** [shiekiragu123@gmail.com](mailto:joywanjirukiragu@gmail.com)
+✉️ **Contact:** [joywanjirukiragu@gmail.com](mailto:joywanjirukiragu@gmail.com)
 
 🧠 **Currently Learning:** Enhancing ISR algorithm which reduces revalidation time and handles updates more efficiently.
 
-🤝 **Collaboration:** Eager to team up on any JavaScript, Python and PHP projects. Let's craft something exceptional together!🙌
+🤝 **Collaboration:** Eager to team up on any JavaScript, Python, Flutter and PHP projects. Let's craft something exceptional together!🙌
 
 ⚡ **Quick Insight:** I’m captivated by crows 🦅—their clever problem-solving skills mirror my creative thinking in software development!.
 
