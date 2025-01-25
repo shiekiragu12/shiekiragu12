@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ✉️ **Contact:** [joywanjirukiragu@gmail.com](mailto:joywanjirukiragu@gmail.com)
 
-🧠 **Currently Learning:** Enhancing ISR algorithm which reduces revalidation time and handles updates more efficiently.
+🧠 **Currently Learning:**  IoT integration and enhancing an ISR algorithm to reduce revalidation time and handle updates more efficiently.
 
 🤝 **Collaboration:** Eager to team up on any JavaScript, Python, Flutter and PHP projects. Let's craft something exceptional together!🙌
 
